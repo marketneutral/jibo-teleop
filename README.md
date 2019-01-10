@@ -21,6 +21,8 @@ Then, activate it with
 - `sudo apt-get install python3-pyside`
 - `sudo apt-get install portaudio19-dev`
 - `sudo apt-get install python3-dev`
+- `sudo apt-get install xdotool wmctrl`
+
 
 ### Install Python Dependencies
 `pip install -r requirements.txt`
