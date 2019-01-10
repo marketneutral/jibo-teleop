@@ -40,7 +40,7 @@ $ ./launch_scripts/startROS.sh
 
 2. Start the Teleop
 ```bashrc
-./src/jibo-teleop.py
+./src/jibo_teleop.py
 ```
 
 2. Start the GFTA collection
